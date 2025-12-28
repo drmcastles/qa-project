@@ -103,11 +103,12 @@ src/test/java/
 
 ---
 
-## 📸 Test Results
+## 📸 Скриншоты успешного выполнения (Test Results)
 
-Web: screenshots/web_test_results.png  
-Mobile: screenshots/mobile_test_results.png
-
+| Платформа | Скриншот результата |
+| :--- | :--- |
+| **Web (Selenium)** | ![Web Success](screenshots/web_test_results.png) |
+| **Mobile (Appium)** | ![Mobile Success](screenshots/mobile_test_results.png) |
 ---
 
 ## 🚨 Troubleshooting
